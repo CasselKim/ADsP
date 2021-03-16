@@ -1,2 +1,12 @@
-# ADsP
-Archive ADsP study
+# ADsP(데이터분석 준전문가)
+ADsP 자격증을 공부한 내용을 정리합니다.  
+
+## Destination
+2021.05.22(토) 제 29회 데이터분석 준전문가(ADsP) 시험 통과  
+
+## Contents
+- 정리  
+- 내용  
+- 은 여기에  
+- 들어갈
+- 예정
